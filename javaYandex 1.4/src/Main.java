@@ -14,6 +14,8 @@ public class Main {
         int a=3;
         System.out.println(++a);
         System.out.println(a);
+        System.out.println("example for git");
+        System.out.println("example for git two");
 //коварство инкремента первое выражение с b подтверждает что в примитиве все передается по значению, не вмешиваясь в изначальную
 //переменную
 //а второе выражение с а показывает, что инкремент преобразует саму переменную(как будто это ссылочный тип)
